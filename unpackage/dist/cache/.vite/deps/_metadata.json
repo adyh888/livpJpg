@@ -1,0 +1,25 @@
+{
+  "hash": "f08fe143",
+  "configHash": "9b20c1f8",
+  "lockfileHash": "0bacfa95",
+  "browserHash": "32ea96f1",
+  "optimized": {
+    "jszip": {
+      "src": "../../../../../node_modules/jszip/dist/jszip.min.js",
+      "file": "jszip.js",
+      "fileHash": "264e0fbd",
+      "needsInterop": true
+    },
+    "heic-to": {
+      "src": "../../../../../node_modules/heic-to/dist/heic-to.js",
+      "file": "heic-to.js",
+      "fileHash": "fb787673",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TDUMLE5V": {
+      "file": "chunk-TDUMLE5V.js"
+    }
+  }
+}
