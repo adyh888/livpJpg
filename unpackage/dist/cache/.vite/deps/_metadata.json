@@ -1,19 +1,19 @@
 {
-  "hash": "f08fe143",
-  "configHash": "9b20c1f8",
+  "hash": "3ad0ccb0",
+  "configHash": "f78205ed",
   "lockfileHash": "0bacfa95",
-  "browserHash": "32ea96f1",
+  "browserHash": "f4d8023a",
   "optimized": {
     "jszip": {
       "src": "../../../../../node_modules/jszip/dist/jszip.min.js",
       "file": "jszip.js",
-      "fileHash": "264e0fbd",
+      "fileHash": "05acb9f8",
       "needsInterop": true
     },
     "heic-to": {
       "src": "../../../../../node_modules/heic-to/dist/heic-to.js",
       "file": "heic-to.js",
-      "fileHash": "fb787673",
+      "fileHash": "3a671b45",
       "needsInterop": false
     }
   },

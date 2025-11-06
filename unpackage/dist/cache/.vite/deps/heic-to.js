@@ -1,6 +1,6 @@
 import "./chunk-TDUMLE5V.js";
 
-// ../../../../../../Users/liqian/Desktop/MyProject/livpTransformationJpg/node_modules/heic-to/dist/heic-to.js
+// ../../../../../../Users/liqian/Desktop/MyProject/livpJpg/node_modules/heic-to/dist/heic-to.js
 var d = (r, t, e) => new Promise((c, f) => {
   var o = (s) => {
     try {

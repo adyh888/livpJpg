@@ -3,9 +3,9 @@ import {
   __require
 } from "./chunk-TDUMLE5V.js";
 
-// ../../../../../../Users/liqian/Desktop/MyProject/livpTransformationJpg/node_modules/jszip/dist/jszip.min.js
+// ../../../../../../Users/liqian/Desktop/MyProject/livpJpg/node_modules/jszip/dist/jszip.min.js
 var require_jszip_min = __commonJS({
-  "../../../../../../Users/liqian/Desktop/MyProject/livpTransformationJpg/node_modules/jszip/dist/jszip.min.js"(exports, module) {
+  "../../../../../../Users/liqian/Desktop/MyProject/livpJpg/node_modules/jszip/dist/jszip.min.js"(exports, module) {
     !function(e) {
       if ("object" == typeof exports && "undefined" != typeof module)
         module.exports = e();
